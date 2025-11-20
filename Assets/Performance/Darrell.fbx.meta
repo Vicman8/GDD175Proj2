@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b19fd8c4afe40a246b4ad7d087947db0
+guid: 907b1e1c31772a2428ba8795dcf5ed75
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
@@ -90,7 +90,7 @@ ModelImporter:
   humanDescription:
     serializedVersion: 3
     human:
-    - boneName: person_1:pelvis
+    - boneName: person_2:pelvis
       humanName: Hips
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -98,7 +98,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: person_1:l_thigh
+    - boneName: person_2:l_thigh
       humanName: LeftUpperLeg
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -106,7 +106,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: person_1:r_thigh
+    - boneName: person_2:r_thigh
       humanName: RightUpperLeg
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -114,7 +114,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: person_1:l_shank
+    - boneName: person_2:l_shank
       humanName: LeftLowerLeg
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -122,7 +122,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: person_1:r_shank
+    - boneName: person_2:r_shank
       humanName: RightLowerLeg
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -130,7 +130,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: person_1:l_foot
+    - boneName: person_2:l_foot
       humanName: LeftFoot
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -138,7 +138,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: person_1:r_foot
+    - boneName: person_2:r_foot
       humanName: RightFoot
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -146,7 +146,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: person_1:thorax
+    - boneName: person_2:thorax
       humanName: Spine
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -154,7 +154,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: person_1:head
+    - boneName: person_2:head
       humanName: Head
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -162,7 +162,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: person_1:l_uarm
+    - boneName: person_2:l_uarm
       humanName: LeftUpperArm
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -170,7 +170,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: person_1:r_uarm
+    - boneName: person_2:r_uarm
       humanName: RightUpperArm
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -178,7 +178,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: person_1:l_larm
+    - boneName: person_2:l_larm
       humanName: LeftLowerArm
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -186,7 +186,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: person_1:r_larm
+    - boneName: person_2:r_larm
       humanName: RightLowerArm
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -194,7 +194,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: person_1:l_hand
+    - boneName: person_2:l_hand
       humanName: LeftHand
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -202,7 +202,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: person_1:r_hand
+    - boneName: person_2:r_hand
       humanName: RightHand
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -210,7 +210,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: person_1:l_toes
+    - boneName: person_2:l_toes
       humanName: LeftToes
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -218,7 +218,7 @@ ModelImporter:
         value: {x: 0, y: 0, z: 0}
         length: 0
         modified: 0
-    - boneName: person_1:r_toes
+    - boneName: person_2:r_toes
       humanName: RightToes
       limit:
         min: {x: 0, y: 0, z: 0}
@@ -227,13 +227,13 @@ ModelImporter:
         length: 0
         modified: 0
     skeleton:
-    - name: Person2(Clone)
+    - name: Person3(Clone)
       parentName: 
       position: {x: 0, y: 0, z: 0}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: person_0:root
-      parentName: Person2(Clone)
+      parentName: Person3(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
@@ -503,7 +503,7 @@ ModelImporter:
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: person_1:root
-      parentName: Person2(Clone)
+      parentName: Person3(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
@@ -773,7 +773,7 @@ ModelImporter:
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: person_2:root
-      parentName: Person2(Clone)
+      parentName: Person3(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
@@ -1043,7 +1043,7 @@ ModelImporter:
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: person_4:root
-      parentName: Person2(Clone)
+      parentName: Person3(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
